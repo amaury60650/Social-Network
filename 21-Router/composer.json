@@ -1,0 +1,7 @@
+{
+    "name": "webforce/router",
+    "description": "Un projet PHP",
+    "require": {
+        "altorouter/altorouter": "^1.2"
+    }
+}

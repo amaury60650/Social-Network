@@ -1,0 +1,17 @@
+{
+    "name": "webforce/22-app",
+    "authors": [
+        {
+            "name": "Matthieu Mota",
+            "email": "matthieumota@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4":{
+            "Webforce\\": "src/"
+        }
+    },
+    "require": {
+        "altorouter/altorouter": "^1.2"
+    }
+}
